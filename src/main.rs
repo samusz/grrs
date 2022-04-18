@@ -27,7 +27,7 @@ fn main() -> Result<()> {
 }
 
 fn answer() -> i32 {
-    return 42 ;
+    42 ;
 }
 
 #[test]
